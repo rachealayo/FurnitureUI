@@ -1,0 +1,238 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    height: 100vh;
+    width: 100%;
+}
+.header{
+    height: 10%;
+    width: 100%;
+    /* background-color: brown; */
+    display: flex;
+    justify-content: center;
+}
+.headerwrapper{
+    height: auto;
+    width: 80%;
+    /* background-color: blueviolet; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.leftnav{
+    width: 70%;
+    /* background-color: rgb(9, 89, 159); */
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+}
+.between{
+    width: 80%;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.under{
+    height: 90%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: saddlebrown; */
+}
+.underwrapper{
+    height: 90%;
+    width: 80%;
+    display: flex;
+    /* background-color: darkgreen; */
+    justify-content: space-between;
+}
+.left{
+    height: 100%;
+    width: 80%;
+    /* background-color: blue; */
+}
+.right{
+    height: 100%;
+    width: 20%;
+    /* background-color: darkblue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.up{
+    height: 90%;
+    width: auto;
+    /* background-color: yellow; */
+    display: flex;
+    align-items: center;
+}
+.footer{
+    height: 10%;
+    width: 60%;
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-between;
+}
+.mamamoni{
+    height: 50px;
+    width: 80px;
+}
+.tailor{
+    height: 60px;
+    width: 80px;
+} 
+.RD{
+    height: 50px;
+    width: 80px;
+}
+.plug{
+    height: 50px;
+    width: 80px;
+}
+.chairhold{
+    /* background-color: rgb(119, 203, 35); */
+    height: auto;
+    width: 50%;
+    
+}
+.circle{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(211, 205, 205);
+    border-radius: 50%;
+    position: relative;
+    /* top: 20px; */
+    opacity: 50%;
+}
+.chair{
+    height: 400px;
+    width: 300px;
+    position: absolute;
+    left: 155px;
+    top: 150px;
+}
+.text{
+    height: auto;
+    width: 30%;
+    /* background-color: lawngreen; */
+}
+.sec{
+    height: 200px;
+    width: 150px;
+}
+.starcir{
+    height: 30px;
+    width: 80px;
+    /* background-color: darkred; */
+    display: flex;
+    justify-content: space-between;align-items: center;
+
+}
+.cir{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loff{
+    height: 15px;
+    width: 15px;
+}
+.star1{
+    height: 15px;
+    width: 50px;
+ }
+.star2{
+    height: 15px;
+    width: 50px;
+}
+.all{
+    /* height: auto; */
+    /* width: 50%; */
+    /* background-color: orange; */
+    display: flex;
+    flex-direction: column;
+}
+.review{
+    height: 30px;
+    width: 120px;
+    /* background-color: blueviolet; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.all2{
+    height: 40px;
+    width: 200px;
+    border-radius: 15%;
+    margin-top: 20px;
+    /* background-color: indigo */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Arm{
+    /* background-color: blue; */
+    height: auto;
+    margin-top: 30px;
+}
+.para{
+    /* background-color: peru; */
+    margin-top: 20px;
+}
+.dollar{
+    /* background-color: darkorange; */
+    margin-top: 20px;
+}
+
+.small{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(191, 177, 177);
+    border-radius: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.love{
+    height: 20px;
+    width: 20px;
+}
+.big{
+    height: 40px;
+    width: 160px;
+    background-color: black;
+    border-radius: 10%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.cle{
+    height: 25px;
+    width: 25px;
+    background-color: grey;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cart{
+    height: 20px;
+    width: 20px;
+
+}
+.msg2{
+    height: 20px;
+    width: 20px;
+    /* color: white; */
+}
